@@ -1,0 +1,6 @@
+{
+    "providers":["Troll.Malayalam", "InternationalChaluUnion"] ,
+    "port":8080,
+    "database":"mongodb://userL6Q:ulWK8A7aPFxLUPYI@172.30.58.39:27017/sampledb"
+  }
+  
